@@ -1,0 +1,12 @@
+Alur Pelayanan ULT
+- mengisi buku-tamu
+  * Nama
+  * NIK
+  * No Wa
+  * NUPTK
+  * NPSN
+  * Keperluan
+- mengambil nomor antrian
+- konsultasi keperluan
+- konfirmasi penyelesaian masalah
+- mengisi feedback pelayanan
